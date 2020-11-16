@@ -1,1 +1,3 @@
 # PeopleScheduler
+
+for scheduling people.
