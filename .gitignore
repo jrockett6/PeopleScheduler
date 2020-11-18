@@ -1,0 +1,5 @@
+.vscode/
+__pycache__/
+ortools_solution.py
+test.py
+*.DS_Store
