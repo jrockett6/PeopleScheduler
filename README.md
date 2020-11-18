@@ -10,6 +10,10 @@ for scheduling people.
 
 ### To run the code:
 
+`git clone https://github.com/jrockett6/PeopleScheduler.git`
+
+`cd PeopleScheduler`
+
 Activate conda environment (developed with python 3.7): `conda activate {env name}`
 
 run main: `python main.py`
